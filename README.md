@@ -1,4 +1,6 @@
-![GoTask](docs/Frame8.png)
+<div align="center">
+  <img width="200" alt="GitHub Badges" src="https://raw.githubusercontent.com/JeffPatricio/gotask_react_native/master/docs/Frame8.png" />
+</div>
 
 ## About
 
