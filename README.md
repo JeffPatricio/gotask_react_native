@@ -1,3 +1,5 @@
+![GoTask](docs/Frame8.png)
+
 ## About
 
 GoTask is a project created with React Native where its main functionality is the management of tasks to do, a simple to-do list.
@@ -30,4 +32,4 @@ Below we can see the entire design of the GoTask app
 ![GoTask](docs/Frame3.png)
 ![GoTask](docs/Frame4.png)
 ![GoTask](docs/Frame5.png)
-![GoTask](docs/Frame6.png)
+![GoTask](docs/Frame7.png)
