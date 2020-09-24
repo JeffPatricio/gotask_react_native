@@ -35,10 +35,29 @@ Below we can see the entire design of the GoTask app
   alt="GoTask" 
   src="https://raw.githubusercontent.com/JeffPatricio/gotask_react_native/master/docs/Frame1.png"
   />
+  <img 
+  width="200" 
+  alt="GoTask" 
+  src="https://raw.githubusercontent.com/JeffPatricio/gotask_react_native/master/docs/Frame2.png"
+  />
+  <img 
+  width="200" 
+  alt="GoTask" 
+  src="https://raw.githubusercontent.com/JeffPatricio/gotask_react_native/master/docs/Frame3.png"
+  />
+  <img 
+  width="200" 
+  alt="GoTask" 
+  src="https://raw.githubusercontent.com/JeffPatricio/gotask_react_native/master/docs/Frame4.png"
+  />
+  <img 
+  width="200" 
+  alt="GoTask" 
+  src="https://raw.githubusercontent.com/JeffPatricio/gotask_react_native/master/docs/Frame5.png"
+  />
+  <img 
+  width="200" 
+  alt="GoTask" 
+  src="https://raw.githubusercontent.com/JeffPatricio/gotask_react_native/master/docs/Frame7.png"
+  />
 </div>
-
-![GoTask](docs/Frame2.png)
-![GoTask](docs/Frame3.png)
-![GoTask](docs/Frame4.png)
-![GoTask](docs/Frame5.png)
-![GoTask](docs/Frame7.png)
