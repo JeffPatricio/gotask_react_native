@@ -33,7 +33,7 @@ Below we can see the entire design of the GoTask app
   <img 
   width="200" 
   alt="GoTask" 
-  src="https://raw.githubusercontent.com/JeffPatricio/gotask_react_native/masterdocs/Frame1.png"
+  src="https://raw.githubusercontent.com/JeffPatricio/gotask_react_native/master/docs/Frame1.png"
   />
 </div>
 
