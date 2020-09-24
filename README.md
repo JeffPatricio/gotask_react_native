@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200" alt="GitHub Badges" src="https://raw.githubusercontent.com/JeffPatricio/gotask_react_native/master/docs/Frame8.png" />
+  <img width="200" alt="GoTask" src="https://raw.githubusercontent.com/JeffPatricio/gotask_react_native/master/docs/Frame8.png" />
 </div>
 
 ## About
@@ -29,7 +29,14 @@ The project was developed using the following technologies:
 
 Below we can see the entire design of the GoTask app
 
-![GoTask](docs/Frame1.png)
+<div>
+  <img 
+  width="200" 
+  alt="GoTask" 
+  src="https://raw.githubusercontent.com/JeffPatricio/gotask_react_native/masterdocs/Frame1.png"
+  />
+</div>
+
 ![GoTask](docs/Frame2.png)
 ![GoTask](docs/Frame3.png)
 ![GoTask](docs/Frame4.png)
